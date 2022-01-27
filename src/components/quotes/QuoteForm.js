@@ -30,12 +30,12 @@ const QuoteForm = (props) => {
 
   return (
     <Fragment>
-      <Prompt
+      {/* <Prompt
         when={isEntering}
         message={(location) =>
           "Are you sure you want to leave, all your data will be lost"
         }
-      />
+      /> */}
       <Card>
         <form
           onFocus={formFocusHandler}
