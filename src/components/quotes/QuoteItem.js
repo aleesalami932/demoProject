@@ -19,4 +19,3 @@ const QuoteItem = (props) => {
 };
 
 export default QuoteItem;
-
